@@ -1,0 +1,30 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "a javascript sandbox for javascript problems",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^10.3.3"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinari/node-sandbox.git"
+  },
+  "keywords": [
+    "javascript",
+    "sandbox",
+    "experiments",
+    "problems",
+    "algorithms"
+  ],
+  "author": "Arianna Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinari/node-sandbox/issues"
+  },
+  "homepage": "https://github.com/marinari/node-sandbox#readme"
+}
